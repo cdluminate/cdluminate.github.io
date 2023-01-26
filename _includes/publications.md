@@ -94,6 +94,29 @@
 </div>
 </li>
 
+<br>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sgcn.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf">SGCN: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction</a></div>
+    <div class="author">Liushuai Shi, Le Wang, Chengjiang Long, Sanping Zhou, <strong>Mo Zhou</strong>, Zhenxing Niu, Gang Hua</div>
+    <div class="periodical"><em>IEEE Conf. on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.</em></div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2104.01528" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/shuaishiliu/SGCN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+<!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 
