@@ -13,7 +13,7 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Mar. 2020]** Our paper about adversarial robustness of deep metric learning is accepted to CVPR 2022.
+- **[Mar. 2020]** Our paper about robust deep metric learning is accepted to CVPR 2022.
 
 {% include_relative _includes/publications.md %}
 
