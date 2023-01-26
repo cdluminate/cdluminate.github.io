@@ -23,11 +23,18 @@
     </div>
   </div>
 
+
+</div>
+</li>
+  
+<br>
+
+<li>
+<div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/robrank.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
   </div>
-
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://cdluminate.github.io/robrank/">Adversarial Attack and Defense in Deep Ranking</a></div>
     <div class="author"><strong>Mo Zhou</strong>, Le Wang, Zhenxing Niu, Qilin Zhang, Nanning Zheng, Gang Hua</div>
@@ -39,11 +46,8 @@
 <!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
-
 </div>
 </li>
-  
-<br>
 
 </ol>
 </div>
