@@ -87,7 +87,7 @@
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Practical_Relative_Order_Attack_in_Deep_Ranking_ICCV_2021_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2103.05248" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://github.com/cdluminate/advorder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/cdluminate/advorder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 <!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
@@ -110,12 +110,35 @@
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2104.01528" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://github.com/shuaishiliu/SGCN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/shuaishiliu/SGCN" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 <!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
 </div>
 </li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/advrank.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-58568-6_46">Adversarial Ranking Attack and Defense</a></div>
+    <div class="author"><strong>Mo Zhou</strong>, Zhenxing Niu, Le Wang, Qilin Zhang, Gang Hua</div>
+    <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em></div>
+    <div class="links">
+      <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-58568-6_46" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2002.11293" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://cdluminate.github.io/advrank/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+<!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 
