@@ -27,7 +27,6 @@
 </div>
 </li>
   
-<br>
 
 <li>
 <div class="pub-row">
@@ -49,7 +48,6 @@
 </div>
 </li>
 
-<br>
 
 <li>
 <div class="pub-row">
@@ -71,7 +69,6 @@
 </div>
 </li>
 
-<br>
 
 
 <li>
@@ -94,8 +91,6 @@
 </div>
 </li>
 
-<br>
-
 
 <li>
 <div class="pub-row">
@@ -117,7 +112,6 @@
 </div>
 </li>
 
-<br>
 
 <li>
 <div class="pub-row">
@@ -133,6 +127,26 @@
       <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-58568-6_46" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2002.11293" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://cdluminate.github.io/advrank/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+<!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ladder.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ojs.aaai.org//index.php/AAAI/article/view/7006">Ladder Loss for Coherent Visual-Semantic Embedding</a></div>
+    <div class="author"><strong>Mo Zhou</strong>, Zhenxing Niu, Le Wang, Zhanning Gao, Qilin Zhang, Gang Hua</div>
+    <div class="periodical"><em>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2020.</em></div>
+    <div class="links">
+      <a href="https://ojs.aaai.org//index.php/AAAI/article/view/7006" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/1911.07528" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/cdluminate/ladderloss" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 <!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
