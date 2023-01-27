@@ -13,7 +13,8 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Mar. 2022]** One paper about robust deep metric learning is accepted to CVPR 2022.
+- **[Sept. 2022]** One paper for federated learning is accepted to NeurIPS 2022.
+- **[Mar. 2022]** One paper for robust deep metric learning is accepted to CVPR 2022.
 - **[Aug. 2021]** I was selected as an "Outstanding Reviewer" for ICCV 2021.
 
 {% include_relative _includes/publications.md %}
