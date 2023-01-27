@@ -154,6 +154,22 @@
 </li>
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/hmlstm.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content_iccv_2017/html/Niu_Hierarchical_Multimodal_LSTM_ICCV_2017_paper.html">Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding</a></div>
+    <div class="author">Zhenxing Niu, <strong>Mo Zhou</strong>, Le Wang, Xinbo Gao, Gang Hua</div>
+    <div class="periodical"><em>IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2017.</em></div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content_iccv_2017/html/Niu_Hierarchical_Multimodal_LSTM_ICCV_2017_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
 
