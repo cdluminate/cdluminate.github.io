@@ -12,6 +12,8 @@ Prior to this, I graduated from [Xidian University](https://en.xidian.edu.cn/) w
 Master's degree, and was advised by Prof. [Zhenxing Niu](https://sites.google.com/site/zhenxingniu007/home).
 I have worked as a research intern with Dr. [Gang Hua](https://ganghua.org/)
 at [Wormpex AI Research](http://research.wormpex.com/).
+I have worked with Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang) as a research assistant
+at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
 My research interest lies in computer vision and machine learning,
 including securing deep neural network performance under distribution shifts.
 
