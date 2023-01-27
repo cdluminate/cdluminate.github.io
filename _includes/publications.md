@@ -172,6 +172,23 @@
 </li>
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/orcnn.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content_iccv_2017/html/Niu_Hierarchical_Multimodal_LSTM_ICCV_2017_paper.html">Ordinal Regression with Multiple Output CNN for Age Estimation</a></div>
+    <div class="author">Zhenxing Niu, <strong>Mo Zhou</strong>, Le Wang, Xinbo Gao, Gang Hua</div>
+    <div class="periodical"><em>IEEE Conf. on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2016.</em></div>
+    <div class="links">
+      <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Niu_Ordinal_Regression_With_CVPR_2016_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 </ol>
