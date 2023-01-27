@@ -4,7 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a second-year Ph.D. student in the Electrical and Computer
+Engineering Dept at Johns Hopkins University. I am advised by Prof. Vishal M.
+Patel. Prior to this, I graduated from Xidian University with a Bachelor's and
+Master's degree. My research interest lies in computer vision and machine
+learning, including securing deep neural network performance under distribution
+shifts. I have worked as a research intern with Gang Hua at Wormpex AI
+Research.
 
 ## Research Interests
 
