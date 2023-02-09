@@ -15,7 +15,7 @@ at [Wormpex AI Research](http://research.wormpex.com/).
 I have worked with Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang) as a research assistant
 at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
 My research interest lies in computer vision and machine learning,
-including securing deep neural network performance under distribution shifts.
+especially securing deep neural network performance under distribution shifts.
 
 ## Research Interests
 
