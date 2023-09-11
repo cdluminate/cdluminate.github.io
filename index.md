@@ -10,16 +10,15 @@ at [Johns Hopkins University](https://www.jhu.edu/).
 I am advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/).
 Prior to this, I graduated from [Xidian University](https://en.xidian.edu.cn/) with a Bachelor's and
 Master's degree, and was advised by Prof. [Zhenxing Niu](https://sites.google.com/site/zhenxingniu007/home).
-I have worked as a research intern with Dr. [Gang Hua](https://ganghua.org/)
-at [Wormpex AI Research](http://research.wormpex.com/).
-I have worked with Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang) as a research assistant
-at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
+I have worked as a research intern with Dr. [Kazuhito Koishida](https://www.microsoft.com/applied-sciences/people/kazuhito-koishida) at [Microsoft Research](https://www.microsoft.com/en-us/research/);
+as a research intern with Dr. [Gang Hua](https://ganghua.org/) at [Wormpex AI Research](http://research.wormpex.com/);
+as a research assistant with Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang) at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
 My research interest lies in computer vision and machine learning,
 especially securing deep neural network performance under distribution shifts.
 
 ## Research Interests
 
-- **Computer Vision:** object detection, deep metric learning, cross-modal retrieval
+- **Computer Vision:** object detection, deep metric learning, cross-modal retrieval, image generation
 - **Deep Learning:** adversarial attack and defense
 
 ## News
