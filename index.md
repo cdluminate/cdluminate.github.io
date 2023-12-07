@@ -14,6 +14,7 @@ Master's degree, and was advised by Prof. [Zhenxing Niu](https://sites.google.co
 I have worked as a research intern with Dr. [Saeed Amizadeh](https://www.microsoft.com/applied-sciences/people/saeed-amizadeh) and Dr. [Kazuhito Koishida](https://www.microsoft.com/applied-sciences/people/kazuhito-koishida) at [Microsoft Research](https://www.microsoft.com/en-us/research/);
 as a research intern with Dr. [Gang Hua](https://ganghua.org/) at [Wormpex AI Research](http://research.wormpex.com/);
 as a research assistant with Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang) at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
+
 My research interest lies in computer vision and machine learning,
 especially securing deep neural network performance under distribution shifts.
 
