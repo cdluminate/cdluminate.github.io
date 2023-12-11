@@ -19,7 +19,11 @@ as a research intern with
 Dr. [Yiding Yang](https://ihollywhy.github.io/),
 Dr. [Haoxiang Li](https://blog.haoxiang.org/haoxiang.html), and
 Dr. [Gang Hua](https://ganghua.org/) at [Wormpex AI Research](http://research.wormpex.com/);
-as a research assistant with Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang) at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
+as a research assistant with
+Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang)
+and
+Prof. [Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou)
+at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
 
 My research interest lies in computer vision and machine learning,
 especially securing deep neural network performance under distribution shifts.
