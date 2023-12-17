@@ -29,5 +29,3 @@
   <li>Springer Journal of Complex & Intelligent Systems (CAIS) 2021-</li>
   <li>Oxford University Press: The Computer Journal (COMPJ) 2023-</li>
 </ul>
-
-<h4 style="margin:0 10px 0;">Free Software Contributions</h4>
