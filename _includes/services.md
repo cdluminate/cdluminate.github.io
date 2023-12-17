@@ -31,7 +31,3 @@
 </ul>
 
 <h4 style="margin:0 10px 0;">Free Software Contributions</h4>
-
-<ul style="margin:0 0 20px;">
-  <li>Official Debian GNU/Linux Developer. 2018-current.</li>
-</ul>

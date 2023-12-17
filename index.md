@@ -28,6 +28,8 @@ at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
 My research interest lies in computer vision and machine learning,
 especially securing deep neural network performance under distribution shifts.
 
+I've been an official Debian GNU/Linux developer since 2018.
+
 ## Research Interests
 
 - **Computer Vision:** object detection, cross-modal retrieval, text-to-image synthesis.
