@@ -12,6 +12,7 @@
   <li>AAAI Conf. on Artificial Intelligence (AAAI) 2021-</li>
   <li>Winter Conf. on Applications of Computer Vision (WACV) 2021-</li>
   <li>Asian Conf. on Computer vision (ACCV) 2018-</li>
+  <li>International Conf. on Pattern Recognition 2024-</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -28,4 +29,11 @@
   <li>Springer Journal of Machine Vision and Application (MVA) 2020-</li>
   <li>Springer Journal of Complex & Intelligent Systems (CAIS) 2021-</li>
   <li>Oxford University Press: The Computer Journal (COMPJ) 2023-</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Workshop Organizer</h4>
+
+<ul style="margin:0 0 20px;">
+  <li>4th Workshop on Adversarial Robustness In the Real World (AROW), ICCV, 2023</li>
+  <li>4th Workshop of Adversarial Machine Learning on Computer Vision: Robustness of Foundation Models, CVPR, 2024</li>
 </ul>
