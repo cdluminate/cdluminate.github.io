@@ -38,6 +38,7 @@ I've been an official Debian GNU/Linux developer since 2018.
 
 ## News
 
+- **[Feb. 2024]** One paper for robust metric learning is accepted to T-PAMI.
 - **[Sept. 2022]** One paper for federated learning is accepted to NeurIPS 2022.
 - **[Mar. 2022]** One paper for robust deep metric learning is accepted to CVPR 2022.
 - **[Aug. 2021]** I was selected as an "Outstanding Reviewer" for ICCV 2021.
