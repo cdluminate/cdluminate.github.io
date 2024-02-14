@@ -10,11 +10,11 @@
     <abbr class="badge">TPAMI</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://cdluminate.github.io/robrank/">Adversarial Attack and Defense in Deep Ranking</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10433769">Adversarial Attack and Defense in Deep Ranking</a></div>
     <div class="author"><strong>Mo Zhou</strong>, Le Wang, Zhenxing Niu, Qilin Zhang, Nanning Zheng, Gang Hua</div>
     <div class="periodical"><em>Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</em></div>
     <div class="links">
-<!--      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Enhancing_Adversarial_Robustness_for_Deep_Metric_Learning_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://ieeexplore.ieee.org/document/10433769" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <a href="https://arxiv.org/abs/2106.03614" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://cdluminate.github.io/robrank/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 <!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
