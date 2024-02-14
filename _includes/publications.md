@@ -14,7 +14,7 @@
     <div class="author"><strong>Mo Zhou</strong>, Le Wang, Zhenxing Niu, Qilin Zhang, Nanning Zheng, Gang Hua</div>
     <div class="periodical"><em>Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024.</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/10433769" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://ieeexplore.ieee.org/document/10433769" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/abs/2106.03614" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <a href="https://cdluminate.github.io/robrank/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 <!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
