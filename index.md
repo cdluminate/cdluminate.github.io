@@ -26,7 +26,8 @@ Prof. [Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou)
 at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
 
 My research interest lies in computer vision and machine learning,
-especially securing deep neural network performance under distribution shifts.
+especially securing deep neural network performance under distribution shifts,
+or say, expecting the unexpected at deep neural network runtime.
 
 I've been an official Debian GNU/Linux developer since 2018.
 
