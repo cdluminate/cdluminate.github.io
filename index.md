@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a third-year Ph.D. student in the
+I am currently a fourth-year Ph.D. student in the
 [Electrical and Computer Engineering Dept](https://engineering.jhu.edu/ece/)
 at [Johns Hopkins University](https://www.jhu.edu/).
 I am advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/).
