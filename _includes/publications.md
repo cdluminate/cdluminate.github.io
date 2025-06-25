@@ -3,6 +3,28 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/unires.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2506.05599">UniRes: Universal Image Restoration for Complex Degradations</a></div>
+    <div class="author"><strong>Mo Zhou</strong>, Keren Ye, Mauricio Delbracio, Peyman Milanfar, Vishal M. Patel, Hossein Talebi</div>
+    <div class="periodical"><em>ICCV, 2025.</em></div>
+    <div class="links">
+<!--      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Enhancing_Adversarial_Robustness_for_Deep_Metric_Learning_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://arxiv.org/abs/2506.05599" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+<!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
