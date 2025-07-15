@@ -4,10 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently a fourth-year Ph.D. student in the
+I am currently a fifth-year Ph.D. student in the
 [Electrical and Computer Engineering Dept](https://engineering.jhu.edu/ece/)
 at [Johns Hopkins University](https://www.jhu.edu/).
 I am advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/).
+
+**I am actively seeking new opportunities to apply my expertise in deep learning and computer vision. Inquiries regarding potential roles and collaborations are welcome.**
 
 Prior to this, I graduated from [Xidian University](https://en.xidian.edu.cn/) with a Bachelor's and
 Master's degree, and was advised by
