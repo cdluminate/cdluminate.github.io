@@ -10,6 +10,8 @@ I am currently a fifth-year Ph.D. student in the
 [Electrical and Computer Engineering Dept](https://engineering.jhu.edu/ece/)
 at [Johns Hopkins University](https://www.jhu.edu/).
 I am advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/).
+My research interest lies in computer vision and deep learning,
+especially preserving model performance under distribution shifts.
 
 Prior to this, I graduated from [Xidian University](https://en.xidian.edu.cn/) with a Bachelor's and
 Master's degree, and was advised by
@@ -35,10 +37,6 @@ Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang)
 and
 Prof. [Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou)
 at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
-
-My research interest lies in computer vision and machine learning,
-especially securing deep neural network performance under distribution shifts,
-or say, expecting the unexpected at deep neural network runtime.
 
 I've been an official Debian GNU/Linux developer since 2018.
 
