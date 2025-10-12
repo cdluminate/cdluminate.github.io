@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-**I am actively seeking new opportunities to apply my expertise in deep learning and computer vision. Inquiries regarding potential roles and collaborations are welcome.**
-
-I am currently a fifth-year Ph.D. student in the
+I am currently a Ph.D. student in the
 [Electrical and Computer Engineering Dept](https://engineering.jhu.edu/ece/)
 at [Johns Hopkins University](https://www.jhu.edu/).
 I am advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/).
