@@ -4,39 +4,44 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. student in the
-[Electrical and Computer Engineering Dept](https://engineering.jhu.edu/ece/)
-at [Johns Hopkins University](https://www.jhu.edu/).
-I am advised by Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/).
-My research interest lies in computer vision and deep learning,
-especially preserving model performance under distribution shifts.
+I am currently an Applied Scientist at Amazon.
+My research focuses on computer vision and deep learning,
+specifically vision-language models
+and preserving model performance under distribution shifts.
 
-Prior to this, I graduated from [Xidian University](https://en.xidian.edu.cn/) with a Bachelor's and
-Master's degree, and was advised by
+Prior to this, I received my Ph.D.
+from the [Electrical and Computer Engineering Dept](https://engineering.jhu.edu/ece/)
+at [Johns Hopkins University](https://www.jhu.edu/),
+where I was advised by
+Prof. [Vishal M. Patel](https://engineering.jhu.edu/faculty/vishal-patel/).
+I earned my Bachelor's and Master's degrees
+from [Xidian University](https://en.xidian.edu.cn/),
+under the supervision of
 Prof. [Zhenxing Niu](https://sites.google.com/site/zhenxingniu007/home).
+
 I have worked
 as a student researcher with
 Dr. [Hossein Talebi](http://alumni.cse.ucsc.edu/~htalebi/),
 Dr. [Keren Ye](https://people.cs.pitt.edu/~yekeren/),
-Dr. [Mauricio Delbracio](https://mdelbra.github.io/),,
-Dr. [Peyman Milanfar](https://sites.google.com/view/milanfarhome/),
+Dr. [Mauricio Delbracio](https://mdelbra.github.io/),
+and Dr. [Peyman Milanfar](https://sites.google.com/view/milanfarhome/)
 at [Google Research](https://research.google/);
 as a research intern with
-Dr. [Saeed Amizadeh](https://www.microsoft.com/applied-sciences/people/saeed-amizadeh) and
-Dr. [Kazuhito Koishida](https://www.microsoft.com/applied-sciences/people/kazuhito-koishida)
+Dr. [Saeed Amizadeh](https://www.microsoft.com/applied-sciences/people/saeed-amizadeh)
+and Dr. [Kazuhito Koishida](https://www.microsoft.com/applied-sciences/people/kazuhito-koishida)
 at [Microsoft Research](https://www.microsoft.com/en-us/research/);
 as a research intern with
 Dr. [Yiding Yang](https://ihollywhy.github.io/),
-Dr. [Haoxiang Li](https://blog.haoxiang.org/haoxiang.html), and
-Dr. [Gang Hua](https://ganghua.org/)
+Dr. [Haoxiang Li](https://blog.haoxiang.org/haoxiang.html),
+and Dr. [Gang Hua](https://ganghua.org/)
 at [Wormpex AI Research](http://research.wormpex.com/);
-as a research assistant with
+and as a research assistant with
 Prof. [Le Wang](http://gr.xjtu.edu.cn/web/lewang)
-and
-Prof. [Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou)
+and Prof. [Sanping Zhou](https://gr.xjtu.edu.cn/web/spzhou)
 at [Xi'an Jiaotong University](http://www.iair.xjtu.edu.cn/).
 
-I've been an official Debian GNU/Linux developer since 2018.
+I have been an official Debian Developer since 2018.
+I am also an amateur photographer.
 
 ## Research Interests
 
