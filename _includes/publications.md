@@ -7,6 +7,26 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/calidet.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">T-PAMI</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2402.17207">Deployment Prior Injection for Run-time Re-biasable Object Detection</a></div>
+    <div class="author"><strong>Mo Zhou</strong>, Yiding Yang, Haoxiang Li, Vishal M. Patel, Gang Hua</div>
+    <div class="periodical"><em>T-PAMI</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/11410103" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2402.17207" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+<!--      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/unires.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV</abbr>
   </div>
